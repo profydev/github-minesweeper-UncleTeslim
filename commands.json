@@ -2,11 +2,7 @@
   "commands": [
     "clear A8",
     "flag C3",
-<<<<<<< HEAD
     "flag D2",
     "clear H7"
-=======
-    "flag D2"
->>>>>>> af2fbdc34f7d91c44b5f7a86516b33bd286cc36c
   ]
 }
